@@ -54,5 +54,4 @@ DMX to Arduino LED Control - Setup & Requirements
 
 ---
 
-For more help, please contact: Owen Pershing 
 
